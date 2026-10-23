@@ -17,7 +17,7 @@
     "name": "soundcraft"
   },
   "meta": {
-    "description": "Soundcraft, an open-source creative app from the ArtCraft Craft app suite",
+    "description": "SoundCraft, an open-source creative app from the ArtCraft Craft app suite",
     "homepage": "https://github.com/storytold/soundcraft",
     "licenseSpdx": "MIT OR Apache-2.0"
   }
