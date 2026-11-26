@@ -3,15 +3,15 @@
     "type": "github-release",
     "owner": "storytold",
     "repo": "soundcraft",
-    "version": "0.12.1",
-    "tag": "v0.12.1",
-    "archive": "soundcraft-0.12.1-linux-x86_64.tar.gz",
-    "url": "https://github.com/storytold/soundcraft/releases/download/v0.12.1/soundcraft-0.12.1-linux-x86_64.tar.gz",
-    "hash": "sha256-sKVr1rXSfeaxLjVFgMNivm9ZEl6lj1cwRMhPan2od4A="
+    "version": "0.20.1",
+    "tag": "v0.20.1",
+    "archive": "soundcraft-0.20.1-linux-x86_64.tar.gz",
+    "url": "https://github.com/storytold/soundcraft/releases/download/v0.20.1/soundcraft-0.20.1-linux-x86_64.tar.gz",
+    "hash": "sha256-yu/PhcTxE4cX1ZLTHOW+B/L8phbsNtY/rGdgze++KKk="
   },
   "package": {
     "repo": "soundcraft",
-    "version": "0.12.1"
+    "version": "0.20.1"
   },
   "binary": {
     "name": "soundcraft"
